@@ -96,8 +96,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vinit620/vinit620/output/snake.svg" alt="Snake animation" />
-
-###
